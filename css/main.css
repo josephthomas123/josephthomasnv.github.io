@@ -188,7 +188,7 @@ p.lead {
 	font-family: "montserrat-regular", sans-serif;
 	font-size: 2rem;
 	line-height: 1.8;
-	color: #4f4f4f;
+	color: #8d8104;
 	margin-bottom: 3.6rem;
 }
 
@@ -1254,7 +1254,7 @@ input::-moz-focus-inner {
 	display: inline-block;
 	height: 1px;
 	width: 240px;
-	background-color: #dedede;
+	background-color: #021e45;
 	text-align: center;
 }
 
@@ -2282,7 +2282,7 @@ header .header-logo a {
  *
  * ------------------------------------------------------------------- */
 #credentials {
-	background: #FFFFFF;
+	background: #4cf482;
 	position: relative;
 	padding: 12rem 0 9rem;
 }
@@ -2302,7 +2302,7 @@ header .header-logo a {
 	content: "";
 	height: 3px;
 	width: 4rem;
-	background-color: #aeaeae;
+	background-color: #00ff84;
 	position: absolute;
 	top: 50%;
 	left: 2rem;
@@ -2428,7 +2428,7 @@ header .header-logo a {
  *
  * ------------------------------------------------------------------- */
 #portfolio {
-	background: #EBEBEB;
+	background: #36f7e4;
 	min-height: 800px;
 	position: relative;
 	padding: 12rem 0 15rem;
@@ -2685,7 +2685,7 @@ header .header-logo a {
  *
  * ------------------------------------------------------------------- */
 #stats {
-	background-color: #111111;
+	background-color: #ff5efc;
 	position: relative;
 	padding: 6rem 0 6rem;
 }
@@ -2733,6 +2733,7 @@ header .header-logo a {
 	height: 3px;
 	background-color: rgba(5, 100, 139, 0.1);
 	background-color: rgba(255, 255, 255, 0.1);
+	background-color: #00ff84;
 	text-align: center;
 	position: absolute;
 	top: 0;
